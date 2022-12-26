@@ -1,6 +1,6 @@
 {
   "name": "hc-plugin-javascript-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is a sdk test",
   "keywords": ["ts","sdk"],
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "repository": "https://github.com/",
-  "homepage": "https://github.com/",
+  "homepage": "https://huangchao0821.github.io/hc-plugin-js-sdk/",
   "author": "",
   "license": "MIT",
   "dependencies": {
