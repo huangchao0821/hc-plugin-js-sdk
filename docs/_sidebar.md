@@ -1,2 +1,3 @@
 - [Getting started](/pages/quick_start.md)
 - [Api](/pages/api.md)
+- [Version](/pages/version.md)
