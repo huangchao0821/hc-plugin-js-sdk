@@ -1,2 +1,2 @@
-* [Getting Started](pages/quick_start)
-* [Api](pages/api)
+- [Getting started](/pages/quick_start.md)
+- [Api](/pages/api.md)
