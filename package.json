@@ -1,5 +1,5 @@
 {
-  "name": "hc-plugin-javascript-test",
+  "name": "opencord-plugin-javascript-test",
   "version": "1.0.4",
   "description": "this is a sdk test",
   "keywords": ["ts","sdk"],
@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "repository": "https://github.com/",
-  "homepage": "https://huangchao0821.github.io/hc-plugin-js-sdk/",
+  "homepage": "https://huangchao0821.github.io/opencord-plugin-js-sdk/",
   "author": "",
   "license": "MIT",
   "dependencies": {

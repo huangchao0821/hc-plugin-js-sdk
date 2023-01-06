@@ -20,14 +20,14 @@ Our SDK is dedicated to providing some services for opencord plugins
 ### 2、Simple example
 #### 2.1、Install
 ```shell
-npm install hc-plugin-js-sdk
+npm install opencord-plugin-js-sdk
 or
-yarn add hc-plugin-js-sdk
+yarn add opencord-plugin-js-sdk
 ```
 
 #### 2.2、login
 ```javascript
-import Api from 'hc-plugin-js-sdk'
+import Api from 'opencord-plugin-js-sdk'
 
 const { getCode } = Api;
 

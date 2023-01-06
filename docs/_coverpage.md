@@ -6,5 +6,5 @@
 - Easy to implant opencord platform
 - Concise SDK documentation，Fast access
 
-[GitHub](https://github.com/huangchao0821/hc-plugin-js-sdk/tree/test2)
+[GitHub](https://github.com/huangchao0821/opencord-plugin-js-sdk/tree/test2)
 [Get Started](pages/quick_start)

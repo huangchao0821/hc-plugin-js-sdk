@@ -13,7 +13,7 @@ See the [Quick start](/pages/quick_start.md) guide for more details.
 
 ## Examples
 
-Check out the [Showcase](https://github.com/huangchao0821/hc-plugin-js-sdk/tree/test2) to see docsify in use.
+Check out the [Showcase](https://github.com/huangchao0821/opencord-plugin-js-sdk/tree/test2) to see docsify in use.
 
 
 ## Community
