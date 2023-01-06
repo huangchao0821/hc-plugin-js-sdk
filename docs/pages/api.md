@@ -9,7 +9,6 @@
   - [isMacOs](#ismacos)
   - [isWindows](#iswindows)
   - [isInOpencord](#isinopencord)
-  - [isEmpty](#isemptydataany)
   - [parseUrl](#parseurlurlstring)
 - [event](#event)
   - [plugin-before-mount](#plugin-before-mount)
@@ -51,11 +50,6 @@
 - ### ***isInOpencord()***
     - **describe:** Whether the plugin runs in  opencord app 
     - **@return:** Promise<boolean\>
-
-
-- ### ***isEmpty(data:any)***
-    - **describe:** whether the data is empty
-    - **@return:** boolean
 
 - ### ***parseUrl(url:string)***
     - **describe：** Parse the url of the route
